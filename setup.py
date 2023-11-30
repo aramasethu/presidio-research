@@ -30,6 +30,7 @@ setup(
                 "presidio_evaluator/data_generator/raw_data/companies_and_organizations.csv",
                 "presidio_evaluator/data_generator/raw_data/nationalities.csv",
                 "presidio_evaluator/data_generator/raw_data/us_driver_licenses.csv",
+                "presidio_evaluator/data_generator/raw_data/us_driver_license_format.yaml",
             ],
         )
     ],
